@@ -16,6 +16,8 @@
     <a href="{{ route('noticias')}}">Noticias</a>
     <a href="{{ route('admision')}}">Admision</a>
     <a href="{{ route('tienda')}}">Tienda</a>
+
+    <h1>prueba de sincronizado</h1>
   </div>
 
     
