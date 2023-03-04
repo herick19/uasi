@@ -18,6 +18,7 @@
     <a href="{{ route('tienda')}}">Tienda</a>
 
     <h1>prueba de sincronizado</h1>
+    <h1>prueba de subida dos</h1>
   </div>
 
     
